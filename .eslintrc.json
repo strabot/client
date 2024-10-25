@@ -5,9 +5,7 @@
         "jest/globals": true
     },
     "extends": "@gabrielrufino/eslint-config",
-    "plugins": [
-        "jest"
-    ],
+    "plugins": [],
     "overrides": [
     ],
     "parserOptions": {
